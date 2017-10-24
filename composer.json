@@ -1,12 +1,12 @@
 {
-    "name": "shankhadev/bsdate",
+    "name": "nbinkunwar/bsdate",
     "description": "A simple package that convert AD to BS and viceversa.",
     "keywords": ["Nepali Date", "Bikramsambat"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Padam Shankhadev",
-            "email": "shankhadev123@gmail.com"
+            "name": "Nbin Kunwar",
+            "email": "nbinkunwar@gmail.com"
         }
     ],
     "require": {
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Shankhadev\\Bsdate\\": "src/Bsdate/"
+            "Nbin\\Bsdate\\": "src/Bsdate/"
         }
     }
 }
